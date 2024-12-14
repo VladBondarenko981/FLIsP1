@@ -22,8 +22,8 @@
    7. Використайте на елементах списку 2-3 інших предикати з розглянутих у розділі 4 навчального посібника.
    8. Об'єднайте створений список з одним із його непустих підсписків. Для цього використайте функцію APPEND.
 ## Варіант 2
+![image](https://github.com/user-attachments/assets/831e595c-8c9f-4e00-a2f4-ee325b80e887)
 <p align="center">
-<img src="![image](https://github.com/user-attachments/assets/6f88ddc5-692a-4835-a0f6-d2f4e4a95bb0)
 "/>
 </p>
 

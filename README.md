@@ -23,8 +23,9 @@
    8. Об'єднайте створений список з одним із його непустих підсписків. Для цього використайте функцію APPEND.
 ## Варіант 2
 <p align="center">
+<img src="![image](https://github.com/user-attachments/assets/6f88ddc5-692a-4835-a0f6-d2f4e4a95bb0)
+"/>
 </p>
-![image](https://github.com/user-attachments/assets/699ee094-3eac-4ca7-97c1-591903d2c3f0)
 
 
 ```
